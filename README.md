@@ -36,7 +36,7 @@ everything else looks pretty good.
 Now let's try validating the code to identify where we went wrong.
 
 1. In your **viewing tab**, navigate View &rarr; Developer &rarr; View Source
-   _or_ press Command-Option-U. This will give you the "Source View" of the
+   _or_ press Command-Option-U. If you're using Windows, then right-click on the page and select "View page source" _or_ press Ctrl-U. This will give you the "Source View" of the
    document
 2. Select the whole of the HTML contents in the file, and copy them
 3. In your web browser, open a new tab to [W3C's HTML Validator][valid8r]
@@ -91,7 +91,7 @@ to us, and help us troubleshoot much more efficiently.
 1. Open the [`example_code_passing_validation.html`][s3-valid] file in a new
    tab. This will now be our new **viewing tab**
 2. In your **viewing tab**, navigate View &rarr; Developer &rarr; View Source
-   _or_ press Command-Option-U. This will give you the "Source View" of the
+   _or_ press Command-Option-U. Again, if you're using Windows, then right-click on the page and select "View page source" _or_ press Ctrl-U. This will give you the "Source View" of the
    document
 3. Select the whole of the HTML contents in the file, and copy them
 4. In your web browser, navigate to [W3C's HTML Validator][valid8r] in a new
